@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3584E4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there%2C+I'm+Hemanth+D+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer+%7C+Cloud-Native+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Hey+there%2C+I'm+Hemanth+D+%F0%9F%91%8B" alt="Typing SVG" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=Data+Scientist+%7C+ML+Engineer+%7C+Cloud-Native+Builder" alt="Typing SVG" />
 
 <!-- Subtle tagline -->
 <p>
@@ -133,29 +135,53 @@ I'm an **impact-driven Data Scientist with 5 years of experience** delivering pr
 
 ## 💼 Experience Timeline
 
-```
- 2024                     2023                2022              2021           2020
-  ┃                        ┃                   ┃                 ┃              ┃
-  ▼                        ▼                   ▼                 ▼              ▼
-  ╔══════════════════════════════════╗
-  ║  🔬 Data Scientist — Arthrex    ║──── Mar 2024 → Present
-  ║  Remote, USA                    ║     ▸ Time-series forecasting (ARIMA, XGBoost, Prophet)
-  ╚══════════════════════════════════╝     ▸ MLOps with Airflow + SageMaker + CI/CD
-                                          ▸ PySpark + Snowflake data engineering
-                                          ▸ 10% cost reduction, 80% less manual intervention
-                           ╔══════════════════════════════════╗
-                           ║  📊 Data Analyst — UMass Boston  ║──── Jan 2022 → Dec 2023
-                           ║  Massachusetts, USA              ║     ▸ 500GB+ daily PySpark pipelines
-                           ╚══════════════════════════════════╝     ▸ Kafka + Spark real-time streaming
-                                                                    ▸ Anomaly detection (sub-second latency)
-                                                                    ▸ 40% faster system response times
-                                                  ╔══════════════════════════════════════╗
-                                                  ║  📈 Assoc. Data Analyst — TCS        ║──── Aug 2020 → Dec 2021
-                                                  ║  Bengaluru, India                    ║     ▸ Serverless Kafka + Lambda pipelines
-                                                  ╚══════════════════════════════════════╝     ▸ 8M+ log records processed
-                                                                                               ▸ NetworkX graph analysis (5K+ queries)
-                                                                                               ▸ dbt models across 15+ datasets
-```
+<table>
+<tr>
+<td>
+
+<!-- Role 1 -->
+<h3>🔬 Data Scientist</h3>
+<b>Arthrex</b> · Remote, USA<br/>
+<code>Mar 2024 → Present</code>
+
+<blockquote>
+▸ Time-series forecasting with ARIMA, XGBoost, Prophet & LightGBM<br/>
+▸ Automated ML pipelines — Airflow + SageMaker + CI/CD retraining<br/>
+▸ PySpark + Snowflake feature engineering at scale<br/>
+▸ <b>10%</b> cloud cost reduction · <b>80%</b> less manual pipeline intervention
+</blockquote>
+
+---
+
+<!-- Role 2 -->
+<h3>📊 Data Analyst</h3>
+<b>University of Massachusetts Boston</b> · Massachusetts, USA<br/>
+<code>Jan 2022 → Dec 2023</code>
+
+<blockquote>
+▸ Built resilient PySpark pipelines processing <b>500 GB+</b> daily<br/>
+▸ Kafka + Spark Streaming real-time infrastructure on AWS<br/>
+▸ Anomaly detection system with sub-second latency<br/>
+▸ <b>40%</b> faster system response times for 200+ stakeholders
+</blockquote>
+
+---
+
+<!-- Role 3 -->
+<h3>📈 Associate Data Analyst</h3>
+<b>Tata Consultancy Services (TCS)</b> · Bengaluru, India<br/>
+<code>Aug 2020 → Dec 2021</code>
+
+<blockquote>
+▸ Serverless event-driven pipelines — Kafka + AWS Lambda<br/>
+▸ Processed <b>8 M+</b> complex log records with Python & SQL<br/>
+▸ NetworkX graph analysis across <b>5,000+</b> queries (+30% accuracy)<br/>
+▸ dbt data models & validation across <b>15+</b> enterprise datasets
+</blockquote>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -243,19 +269,6 @@ Built data processing pipelines for **30,000+ location-based records** using Geo
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemanthsai-d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthsai-d&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthsai-d&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
