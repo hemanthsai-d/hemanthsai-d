@@ -135,52 +135,57 @@ I'm an **impact-driven Data Scientist with 5 years of experience** delivering pr
 
 ## 💼 Experience Timeline
 
-<table>
-<tr>
-<td>
-
-<!-- Role 1 -->
-<h3>🔬 Data Scientist</h3>
-<b>Arthrex</b> · Remote, USA<br/>
-<code>Mar 2024 → Present</code>
-
-<blockquote>
-▸ Time-series forecasting with ARIMA, XGBoost, Prophet & LightGBM<br/>
-▸ Automated ML pipelines — Airflow + SageMaker + CI/CD retraining<br/>
-▸ PySpark + Snowflake feature engineering at scale<br/>
-▸ <b>10%</b> cloud cost reduction · <b>80%</b> less manual pipeline intervention
-</blockquote>
-
----
-
-<!-- Role 2 -->
-<h3>📊 Data Analyst</h3>
-<b>University of Massachusetts Boston</b> · Massachusetts, USA<br/>
-<code>Jan 2022 → Dec 2023</code>
-
-<blockquote>
-▸ Built resilient PySpark pipelines processing <b>500 GB+</b> daily<br/>
-▸ Kafka + Spark Streaming real-time infrastructure on AWS<br/>
-▸ Anomaly detection system with sub-second latency<br/>
-▸ <b>40%</b> faster system response times for 200+ stakeholders
-</blockquote>
-
----
-
-<!-- Role 3 -->
-<h3>📈 Associate Data Analyst</h3>
-<b>Tata Consultancy Services (TCS)</b> · Bengaluru, India<br/>
-<code>Aug 2020 → Dec 2021</code>
-
-<blockquote>
-▸ Serverless event-driven pipelines — Kafka + AWS Lambda<br/>
-▸ Processed <b>8 M+</b> complex log records with Python & SQL<br/>
-▸ NetworkX graph analysis across <b>5,000+</b> queries (+30% accuracy)<br/>
-▸ dbt data models & validation across <b>15+</b> enterprise datasets
-</blockquote>
-
-</td>
-</tr>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%" align="center">Period</th>
+      <th width="80%">Role & Highlights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Mar_2024-Present-3584E4?style=for-the-badge" /><br/>
+        <sub>🟢 Current</sub>
+      </td>
+      <td>
+        <h3>🔬 Data Scientist — Arthrex</h3>
+        <sub>📍 Remote, USA</sub><br/><br/>
+        ▸ Time-series forecasting with ARIMA, XGBoost, Prophet & LightGBM<br/>
+        ▸ Automated ML pipelines — Airflow + SageMaker + CI/CD retraining<br/>
+        ▸ PySpark + Snowflake feature engineering at scale<br/>
+        ▸ <b>10%</b> cloud cost reduction · <b>80%</b> less manual pipeline intervention
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Jan_2022-Dec_2023-58A6FF?style=for-the-badge" /><br/>
+        <sub>⚪ Completed</sub>
+      </td>
+      <td>
+        <h3>📊 Data Analyst — University of Massachusetts Boston</h3>
+        <sub>📍 Massachusetts, USA</sub><br/><br/>
+        ▸ Built resilient PySpark pipelines processing <b>500 GB+</b> daily<br/>
+        ▸ Kafka + Spark Streaming real-time infrastructure on AWS<br/>
+        ▸ Anomaly detection system with sub-second latency<br/>
+        ▸ <b>40%</b> faster system response times for 200+ stakeholders
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Aug_2020-Dec_2021-8B949E?style=for-the-badge" /><br/>
+        <sub>⚪ Completed</sub>
+      </td>
+      <td>
+        <h3>📈 Associate Data Analyst — TCS</h3>
+        <sub>📍 Bengaluru, India</sub><br/><br/>
+        ▸ Serverless event-driven pipelines — Kafka + AWS Lambda<br/>
+        ▸ Processed <b>8 M+</b> complex log records with Python & SQL<br/>
+        ▸ NetworkX graph analysis across <b>5,000+</b> queries (+30% accuracy)<br/>
+        ▸ dbt data models & validation across <b>15+</b> enterprise datasets
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
